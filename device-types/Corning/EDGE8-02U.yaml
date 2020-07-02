@@ -1,0 +1,44 @@
+manufacturer: Corning
+model: EDGE8-02U
+slug: edge8-02u
+part_number: EDGE8-02U
+u_height: 2
+is_full_depth: false
+subdevice_role: parent
+device_bays:
+  - name: '01A'
+  - name: '01B'
+  - name: '01C'
+  - name: '01D'
+  - name: '01E'
+  - name: '01F'
+  - name: '02A'
+  - name: '02B'
+  - name: '02C'
+  - name: '02D'
+  - name: '02E'
+  - name: '02F'
+  - name: '03A'
+  - name: '03B'
+  - name: '03C'
+  - name: '03D'
+  - name: '03E'
+  - name: '03F'
+  - name: '04A'
+  - name: '04B'
+  - name: '04C'
+  - name: '04D'
+  - name: '04E'
+  - name: '04F'
+  - name: '05A'
+  - name: '05B'
+  - name: '05C'
+  - name: '05D'
+  - name: '05E'
+  - name: '05F'
+  - name: '06A'
+  - name: '06B'
+  - name: '06C'
+  - name: '06D'
+  - name: '06E'
+  - name: '06F'

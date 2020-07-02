@@ -1,0 +1,34 @@
+manufacturer: Corning
+model: EDGE8 MTP to MTP Module
+slug: edge8-cp32-v3
+part_number: EDGE8-CP32-V3
+u_height: 0
+is_full_depth: false
+subdevice_role: child
+# front_ and rear_ports aren't importing for some reason
+front_ports:
+  - name: port1
+    type: mpo
+    rear_port: port1
+  - name: port2
+    type: mpo
+    rear_port: port2
+  - name: port3
+    type: mpo
+    rear_port: port3
+  - name: port4
+    type: mpo
+    rear_port: port4
+rear_ports:
+  - name: port1
+    type: mpo
+    positions: 1
+  - name: port2
+    type: mpo
+    positions: 1
+  - name: port3
+    type: mpo
+    positions: 1
+  - name: port4
+    type: mpo
+    positions: 1

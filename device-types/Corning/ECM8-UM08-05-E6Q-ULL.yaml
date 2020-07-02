@@ -1,0 +1,29 @@
+manufacturer: Corning
+model: EDGE8 MTP to LC Module
+slug: ecm8-um01-05-e6q-ull
+part_number: ECM8-UM01-05-E6Q-ULL
+u_height: 0
+is_full_depth: false
+subdevice_role: child
+# front_ and rear_ports aren't importing for some reason
+front_ports:
+  - name: port1
+    type: lc
+    rear_port: MPO1
+    rear_port_position: 1
+  - name: port2
+    type: lc
+    rear_port: MPO1
+    rear_port_position: 2
+  - name: port3
+    type: lc
+    rear_port: MPO1
+    rear_port_position: 3
+  - name: port4
+    type: lc
+    rear_port: MPO1
+    rear_port_position: 4
+rear_ports:
+  - name: mpo1
+    type: mpo
+    positions: 4

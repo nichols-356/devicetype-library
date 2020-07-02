@@ -1,0 +1,20 @@
+manufacturer: Corning
+model: EDGE8-01U
+slug: edge8-01u
+part_number: EDGE8-01U
+u_height: 1
+is_full_depth: false
+subdevice_role: parent
+device_bays:
+  - name: '01A'
+  - name: '01B'
+  - name: '01C'
+  - name: '01D'
+  - name: '01E'
+  - name: '01F'
+  - name: '02A'
+  - name: '02B'
+  - name: '02C'
+  - name: '02D'
+  - name: '02E'
+  - name: '02F'
